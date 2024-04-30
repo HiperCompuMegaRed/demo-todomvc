@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@playwright/test": "1.43.1",
+    "dotenv": "16.4.5"
+  }
+}
